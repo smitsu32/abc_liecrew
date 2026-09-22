@@ -1,20 +1,26 @@
-# abc_liecrew_Python　- AtCoder ABC 過去問回答リポジトリ
+# abc_liecrew　- 競技プログラミング回答リポジトリ
 
-このリポジトリは、競技プログラミングサイト[AtCoder](https://atcoder.jp/home) の「ABC（AtCoder Beginner Contest）」における過去の自分の回答を整理・管理するためのものです。
+このリポジトリは、競技プログラミングサイト[AtCoder](https://atcoder.jp/home) の「ABC（AtCoder Beginner Contest）」を中心に、EducationalDPコンテストやtenkei90などの過去の自分の回答を整理・管理するためのものです。
 
-- 各コンテストごとにディレクトリを分けて回答を保存しています。
-- 主にPythonで実装しています（一部他の言語を含む場合があります）。
+- 各コンテスト・問題集ごとにディレクトリを分けて回答を保存しています。
+- Python・C++の両方で実装しています。
 - コードの見直しや復習、精度向上のために継続的に更新していきます。
 
 ## ファイル構成
 
 ```
-abc_reyobi_Python/
-├── myans_py/               # 解答ファイル
-│   ├── ab/                 # A・B問題
-│   ├── c/                  # C問題
-│   ├── d/                  # D問題
-│   └── e/                  # E問題
+abc_liecrew/
+├── myans_py/                  # Python解答ファイル
+│   ├── ab/                    # ABC A・B問題
+│   ├── c/                     # ABC C問題
+│   ├── d/                     # ABC D問題
+│   ├── e/                     # ABC E問題
+│   ├── EducationalDP/         # EducationalDPコンテスト
+│   └── tenkei90/              # 競プロ典型90問
+├── myans_cpp/                  # C++解答ファイル
+│   ├── a/                     # ABC A問題
+│   ├── b/                     # ABC B問題
+│   └── c/                     # ABC C問題
 ├── requirements.txt
 └── README.md
 ```
@@ -23,7 +29,7 @@ abc_reyobi_Python/
 
 | パターン | 例 | 説明 |
 |---|---|---|
-| `abc{番号}{難易度}.py` | `abc310b.py` | 基本解答 |
+| `abc{番号}{難易度}.py` / `.cpp` | `abc310b.py` | 基本解答 |
 | `abc{番号}{難易度}_{手法}.py` | `abc240c_DP.py` | 手法を明記した解答 |
 
 ## リンク

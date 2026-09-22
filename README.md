@@ -1,6 +1,6 @@
 # abc_liecrew　- 競技プログラミング回答リポジトリ
 
-このリポジトリは、競技プログラミングサイト[AtCoder](https://atcoder.jp/home) の「ABC（AtCoder Beginner Contest）」を中心に、EducationalDPコンテストやtenkei90などの過去の自分の回答を整理・管理するためのものです。
+このリポジトリは、競技プログラミングサイト[AtCoder](https://atcoder.jp/home) の「ABC（AtCoder Beginner Contest）」を中心に、[Educational DP Contest](https://atcoder.jp/contests/dp?lang=ja)や[競プロ典型90問](https://atcoder.jp/contests/typical90)などの過去の自分の回答を整理・管理するためのものです。
 
 - 各コンテスト・問題集ごとにディレクトリを分けて回答を保存しています。
 - Python・C++の両方で実装しています。
@@ -36,7 +36,5 @@ abc_liecrew/
 
 - [Atcoder Library](https://kenkoooo.com/atcoder/#/user/liecrew?userPageTab=AtCoder+Pie+Charts) - 今までに解いた問題一覧
 - [Atcoder NoviSteps](https://atcoder-novisteps.vercel.app/problems) - 難易度でソートされた問題一覧(反映なし)
-- [Educational DP Contest](https://atcoder.jp/contests/dp?lang=ja) - DP問題集
-- [競プロ典型90問](https://atcoder.jp/contests/typical90) - 典型アルゴリズム問題集
 
 [![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)

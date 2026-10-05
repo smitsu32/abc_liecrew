@@ -54,11 +54,11 @@ abc_liecrew/
 | 解法 | ファイル名の例 |
 |---|---|
 | 二分探索 | `_bisect` |
-| 幅優先探索・深さ優先探索 | `_BFS`、`_DFS`、`_01bfs` |
+| 幅優先探索・深さ優先探索 | `_BFS`、`_DFS`、`_01BFS` |
 | 動的計画法 | `_DP` |
 | bit全探索 | `_bit` |
 | 優先度付きキュー・ダイクストラ法 | `_heapq`、`_dijkstra` |
-| Union-Find | `_UF`、`_uf` |
+| Union-Find | `_UF` |
 | いもす法・しゃくとり法 | `_imos`、`_syaku` |
 
 ## 実行方法

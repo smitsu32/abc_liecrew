@@ -41,7 +41,7 @@ abc_liecrew/
 |---|---|---:|
 | `myans_py/ab` | ABC A・B問題 | 75 |
 | `myans_py/c` | ABC C問題 | 260 |
-| `myans_py/d` | ABC D問題 | 203 |
+| `myans_py/d` | ABC D問題 | 204 |
 | `myans_py/e` | ABC E問題 | 25 |
 | `myans_py/EducationalDP` | Educational DP Contest | 8 |
 | `myans_py/tenkei90` | 競プロ典型90問 | 35 |

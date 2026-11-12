@@ -1,5 +1,7 @@
 # abc_liecrew - 競技プログラミング解答集
 
+[![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)
+
 [AtCoder](https://atcoder.jp/home)のABC（AtCoder Beginner Contest）を中心に、[Educational DP Contest](https://atcoder.jp/contests/dp?lang=ja)や[競プロ典型90問](https://atcoder.jp/contests/typical90)などで書いた自分の解答をまとめたリポジトリです。
 
 - コンテスト・問題集ごとにディレクトリを分けて保存しています。
@@ -79,5 +81,3 @@ pip install -r requirements.txt
 
 - [AtCoder Problems](https://kenkoooo.com/atcoder/#/user/liecrew?userPageTab=AtCoder+Pie+Charts) - これまでに解いた問題の一覧
 - [AtCoder NoviSteps](https://atcoder-novisteps.vercel.app/problems) - 難易度順の問題一覧（自分の解答状況は未反映）
-
-[![Badge](https://cp-logo.vercel.app/atcoder/liecrew)](https://atcoder.jp/users/liecrew)
